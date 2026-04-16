@@ -33,6 +33,10 @@ http://54.164.149.9:8080
 
 priyanshubhaskar2103/student-app
 
+## 📸 Project Screenshot
+
+![App Screenshot](image.png)
+
 ## 👨‍💻 Author
 
 Priyanshu Bhaskar
