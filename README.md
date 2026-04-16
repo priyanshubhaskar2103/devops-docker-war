@@ -1,5 +1,14 @@
 # 🚀 Dockerized Java WAR Application Deployment on AWS EC2
 
+## 🌐 Live Demo
+
+🚀 **Application URL:**
+👉 http://54.164.149.9:8080
+
+⚠️ *Note: This application runs on an AWS Academy EC2 instance, so it may not always be active.*
+
+---
+
 ## 📌 Project Overview
 
 This project demonstrates how to **containerize a Java WAR application** using Docker, push it to Docker Hub, and deploy it on an **AWS EC2 instance**.
@@ -89,15 +98,7 @@ docker run -d -p 8080:8080 priyanshubhaskar2103/student-app
 
 ## 🌐 Application Access
 
-Access the app in browser:
-
-```
-http://<EC2-Public-IP>:8080
-```
-
-Example:
-
-```
+```bash
 http://54.164.149.9:8080
 ```
 
